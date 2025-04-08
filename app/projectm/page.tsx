@@ -49,7 +49,7 @@ export default function Home() {
         <div className="container mx-auto py-5 px-4 flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Zap className="h-5 w-5 text-[#9D6EFF]" />
-            <span className="font-medium text-lg tracking-tight">MarketingAI</span>
+            <span className="font-medium text-lg tracking-tight">Project M</span>
           </div>
           <div className="hidden md:flex items-center space-x-8">
             <Link href="#features" className="text-sm text-gray-300 hover:text-white transition-colors">
@@ -505,9 +505,6 @@ export default function Home() {
           
 
           <div className="pt-8 border-t border-gray-800/40 flex flex-col md:flex-row justify-between items-center">
-            <p className="text-gray-500 text-sm mb-4 md:mb-0">
-              © {new Date().getFullYear()} MarketingAI. All rights reserved.
-            </p>
 
             <div className="flex space-x-6">
               <Link href="x.com/piyushkkr" className="text-gray-400 hover:text-[#9D6EFF] transition-colors">
