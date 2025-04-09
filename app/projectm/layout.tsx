@@ -9,9 +9,8 @@ import { Analytics } from "@vercel/analytics/react"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "MarketingAI - Automated Marketing Campaigns",
-  description: "Join the waitlist for MarketingAI, the platform that automates your marketing campaigns with AI.",
-    generator: 'v0.dev'
+  title: "Project M - Automate your Marketing",
+  description: "Join the waitlist for Project M, the platform that automates your marketing campaigns with AI.",
 }
 
 export default function RootLayout({
