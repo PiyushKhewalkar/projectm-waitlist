@@ -507,7 +507,7 @@ export default function Home() {
           <div className="pt-8 border-t border-gray-800/40 flex flex-col md:flex-row justify-between items-center">
 
             <div className="flex space-x-6">
-              <Link href="x.com/piyushkkr" className="text-gray-400 hover:text-[#9D6EFF] transition-colors">
+              <Link href="https://www.x.com/piyushkkr" target="_blank" className="text-gray-400 hover:text-[#9D6EFF] transition-colors">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="20"
